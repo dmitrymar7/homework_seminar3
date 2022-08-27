@@ -5,7 +5,7 @@
 // 12821 -> да
 // 23432 -> да
 
-bool IsPalindrome(String word){
+bool IsPalindrome(string word){
     
     if(word.Length == 0){
         return false;
